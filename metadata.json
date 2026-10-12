@@ -1,0 +1,6 @@
+{
+  "name": "SI VsCode AI",
+  "description": "AI-first VS Code coding agent extension control center with multi-model staged workflows, project intake evidence pipeline, safe edits, and persistent fix queue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
